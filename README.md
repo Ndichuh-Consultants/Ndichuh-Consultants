@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ndichuh
-- 👀 I’m interested in Web Design, Android(Kotlin,Java) 
+- 👀 I’m interested in Web Design, Android(Kotlin,Java),
 Blockchain, and Cloud Technologies
-- 🌱 I’m currently learning Netwworking
+- 🌱 I’m currently learning Computer Networks
 - 💞️ I’m looking to collaborate on Web designs and innovative ideas.
 - 📫 How to reach me ...Email:Ndichudavid5@gmail.com
 
